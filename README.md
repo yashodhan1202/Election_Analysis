@@ -33,5 +33,10 @@ The analysis of the election show that:
  - Winner of congressional election:
     - Diana DeGette
 
-![pypoll_terminal_screenshot](
+![pypoll_terminal_screenshot](https://github.com/yashodhan1202/Election_Analysis/blob/main/pypoll_terminal_screenshot.png)
+
+## Summary
+
+This script can be easily modified to fit any type of election. For example, if you wanted to do analysis of a federal congressional election, all you need to do is change the counties to states. Another example, if you had to analyze a sales quantities of a company, the votes would have to be changed to sales quantites, candidates to name of the products and counties to place sold.
+
 
