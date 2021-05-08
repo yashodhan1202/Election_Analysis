@@ -20,18 +20,22 @@ The analysis of the election show that:
     - Jefferson
     - Denver
     - Arapahoe
- - The candidate results were:
+    
+ - The county results were:
     - Jefferson, 38,855 votes, 10.5% of total votes
     - Denver, 306,055 votes, 82.8% of total votes
     - Arapahoe, 24,801 votes, 6.7% of total votes 
+ 
  - Largest County Turnout
     - Denver
+ 
  - Number and percentage of votes per candidate
     - Charles Casper Stockham, 85,213 votes, 23.0% of total votes
     - Diana DeGette, 272,892 votes, 73.8% of total votes
     - Raymon Anthony Doane, 11,606 votes, 3.1% of votes
+ 
  - Winner of congressional election:
-    - Diana DeGette
+    - Diana DeGette with 272,892 votes, 73.8% of total votes
 
 ![pypoll_terminal_screenshot](https://github.com/yashodhan1202/Election_Analysis/blob/main/pypoll_terminal_screenshot.png)
 
