@@ -33,3 +33,5 @@ The analysis of the election show that:
  - Winner of congressional election:
     - Diana DeGette
 
+![pypoll_terminal_screenshot](
+
